@@ -20,6 +20,7 @@
 # THE SOFTWARE.
 #-------------------------------------------------------------------------------
 
+require_relative './request_parameters'
 require 'openssl'
 
 module ADAL
